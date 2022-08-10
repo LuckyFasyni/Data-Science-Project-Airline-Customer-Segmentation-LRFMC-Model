@@ -36,14 +36,25 @@ The dataset used by the project is attached in the same folder with this file.
 
 ## Marketing Strategy Recommendation
 
-[1] Loyalist/High Value Customer (Cluster 0): Most valuable and core customers. We should maintain the relationship and reward these customers by giving extra discount or free ticket, chance to win prize of flight to popular destination, and special souvenirs. We can also give them early access for our newest product/service and approach them to affiliate our product to help our promotion.
+1. Loyalist/High Value Customer (Cluster 0): Most valuable and core customers. 
 
-[2] Potential Loyalist/High Prospect Customer (Cluster 4): New member with very high consumption. We should retend these customers as long as possible. We can offer extra discount or free ticket after some period or of membership or mileage. Offer them discount or extra points that could be redeemed to upgrade for higher class of cabin to give them experience.
-[3] Low Consumer (Cluster 1): Old customer but low consumption. We should encourage them to purchase more by providing special offers such as discount for longer distance flight and reward them as a regular customer by giving free voucher for affiliated product/event after achieving some flight records in some period, for example 2 flights in a year.
+ We should maintain the relationship and reward these customers by giving extra discount or free ticket, chance to win prize of flight to popular destination, and special souvenirs. We can also give them early access for our newest product/service and approach them to affiliate our product to help our promotion.
 
-[4] Hibernating VIP/ Can't Lose Them (Cluster 3): Recently absent higher class passenger. We should attract them to buy our product again. Assuming this type of customer comes from higher class, bring them back with flight promotions that is bundled with destination event vouchers or signatured souvenirs. Run surveys to find out what went wrong and avoid losing them to a competitor.
+2. Potential Loyalist/High Prospect Customer (Cluster 4): New member with very high consumption. 
+ 
+ We should retend these customers as long as possible. We can offer extra discount or free ticket after some period or of membership or mileage. Offer them discount or extra points that could be redeemed to upgrade for higher class of cabin to give them experience.
 
-[5] Uncertain Lost/Low Value Customer (Cluster 2): New member with very low consumption. Send them personalized campaigns/promo to reconnect and notify discount and helpful products to encourage another purchase.
+3. Low Consumer (Cluster 1): Old customer but low consumption. 
+
+ We should encourage them to purchase more by providing special offers such as discount for longer distance flight and reward them as a regular customer by giving free voucher for affiliated product/event after achieving some flight records in some period, for example 2 flights in a year.
+
+4. Hibernating VIP/ Can't Lose Them (Cluster 3): Recently absent higher class passenger. 
+
+ We should attract them to buy our product again. Assuming this type of customer comes from higher class, bring them back with flight promotions that is bundled with destination event vouchers or signatured souvenirs. Run surveys to find out what went wrong and avoid losing them to a competitor.
+
+5. Uncertain Lost/Low Value Customer (Cluster 2): New member with very low consumption. 
+
+ Send them personalized campaigns/promo to reconnect and notify discount and helpful products to encourage another purchase.
 
 ## Reference
 
