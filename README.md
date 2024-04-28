@@ -1,7 +1,7 @@
 # Airline-Customer-Segmentation-LRFMC-Model
 Airline Customer Segmentation based on LRFMC Model using K-Means++ Clustering
 
-Get PDF here: https://drive.google.com/file/d/1Qhk5evv59NzLioIJnVu-bTfNb4UiVt2y/view?usp=sharing
+Get the presentation PDF file here: https://drive.google.com/file/d/1Qhk5evv59NzLioIJnVu-bTfNb4UiVt2y/view?usp=sharing
 
 Customer segmentation is defined as the process where customers of an enterprise are divided into groups based on their purchasing behavior and characteristics. The objective of this project is the categorization of customer records into several groups in the aviation Business-to-Customer (B2C) context, using clustering analysis. This is accomplished by first using the Length, Recency, Frequency, Monetary (LRFM) customer lifetime value model, which scores customers according to four attributes; the relationship length with the company (L), recency of latest transaction (R), purchasing frequency (F), monetary value of customer (M), and cabin or passenger space (C). Then, the poject implement clustering model using the k-means++ algorithm, where customer records are segmented based on their respective LRFMC values. Also, the proposed model is integrated with a hyperparameter tuning phase, where the selection of the number of clusters is performed by employing Elbow Method. Finally, the clustering results are visualized and discussed. Through the customer segmentation, high value customer could be distinguished from valueless customer.
 
